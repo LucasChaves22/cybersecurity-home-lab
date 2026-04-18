@@ -10,13 +10,8 @@ Este teste foi realizado em ambiente autorizado (scanme.nmap.org).
 Nmap
 
 ## Comandos utilizados
-
-### Scan completo (mais detalhado)
 nmap -sV scanme.nmap.org
-
-### Scan otimizado (utilizado no laboratório)
 nmap -F scanme.nmap.org
-
 ## O que os comandos fazem?
 
 ### nmap -sV
@@ -33,9 +28,10 @@ Mais leve e ideal para ambientes com limitação de desempenho.
 
 ## Resultado
 
-Foi possível identificar portas abertas e serviços ativos no servidor.
+Foram identificadas portas abertas e serviços ativos no servidor.
 
 Exemplo:
+
 - Porta 22 → SSH  
 - Porta 80 → HTTP  
 
@@ -43,9 +39,9 @@ Exemplo:
 
 A identificação de serviços é essencial para segurança, pois cada porta aberta representa uma possível superfície de ataque.
 
-Embora o scan com detecção de versão (-sV) forneça mais detalhes, ele pode ser mais lento e, em alguns casos, não finalizar corretamente em ambientes com recursos limitados.
+O scan com detecção de versão (-sV) fornece mais detalhes, porém pode ser mais lento e não finalizar corretamente em ambientes virtualizados.
 
-Por isso, foi utilizado o scan rápido (-F), garantindo resultados eficientes sem comprometer a execução.
+Por isso, foi utilizado o scan rápido (-F), garantindo execução mais eficiente.
 
 ## Aprendizado
 
