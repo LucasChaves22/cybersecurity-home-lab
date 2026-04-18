@@ -3,7 +3,7 @@
 ## Objetivo
 Realizar escaneamento de portas em um alvo autorizado para identificar serviços ativos
 
-!!IMPORTANTE (isso é sério)!!
+ ⚠️IMPORTANTE (isso é sério)⚠️
 
 Você NÃO pode sair escaneando qualquer site.
 
