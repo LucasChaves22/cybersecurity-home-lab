@@ -11,10 +11,10 @@ ping -c 4 google.com
 ## Evidências
 
 ### IP da máquina
-![IP](Print1.png)
+![IP]()
 
 ### Teste de conectividade
-![Ping](Print2.png)
+![Ping](
 
 ## Resultado
 Foi possível identificar o endereço IP local e confirmar acesso à internet.
