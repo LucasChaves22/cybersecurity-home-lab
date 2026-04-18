@@ -1,24 +1,15 @@
-# Cybersecurity Home Lab - Wazuh
+ Cybersecurity Home Lab
 
-## Sobre o Projeto
-Criei este laboratório prático com foco em monitoramento de segurança, detecção de ameaças e análise de eventos utilizando ferramentas amplamente usadas no mercado.
+Projeto criado para consolidar conhecimentos em cibersegurança com foco em boas práticas, segurança defensiva e processos utilizados em ambientes corporativos.
 
-## Tecnologias Utilizadas
-- Wazuh SIEM
-- Windows Server
-- Ubuntu Linux
-- Kali Linux
-- Nmap
-- VirtualBox
+## Conteúdo
 
-## Cenários Simulados
-- Tentativas de brute force
-- Port Scan com Nmap
-- Monitoramento de logs
-- Eventos suspeitos no sistema
+- Segurança Windows
+- Segurança Linux
+- Segurança de Rede
+- Resposta a Incidentes
+- Hardening básico
 
 ## Objetivo
-Desenvolver experiência prática em SOC, SIEM e resposta a incidentes.
 
-## Status
-Em desenvolvimento 🚀
+Demonstrar conhecimento prático e evolução contínua na área de cibersegurança.
