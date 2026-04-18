@@ -1,7 +1,7 @@
 # Lab 02 - Port Scan com Nmap
 
 ## Objetivo
-Realizar escaneamento de portas em um alvo autorizado para identificar serviços ativos.
+Realizar escaneamento de portas em um alvo autorizado para identificar serviços ativos
 
 !!IMPORTANTE (isso é sério)!!
 
