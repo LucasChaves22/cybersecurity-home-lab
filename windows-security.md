@@ -1,6 +1,11 @@
-# Segurança Windows
+# Segurança em Windows
 
-- Firewall ativo
-- Atualizações em dia
-- Senhas fortes
-- Antivírus ativo
+## Boas práticas básicas
+
+- Manter o sistema atualizado
+- Ativar firewall
+- Utilizar senhas fortes
+- Usar antivírus
+- Bloqueio automático de tela
+- Remover programas desnecessários
+- Evitar uso de conta administrador no dia a dia
