@@ -20,7 +20,7 @@ nmap scanme.nmap.org
 
 ## Evidência
 
-![Scan](lab02-nmap.png)
+![Scan](../images/lab02-nmap.png)
 
 ## Resultado
 
