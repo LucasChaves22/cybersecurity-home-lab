@@ -1,22 +1,23 @@
-# Lab 02 - Port Scan com Nmap
+ Lab 02 - Port Scan com Nmap
 
 ## Objetivo
-Realizar escaneamento de portas em um alvo autorizado para identificar serviços ativos
+Realizar escaneamento de portas em um alvo autorizado para identificar serviços ativos.
 
- ⚠️IMPORTANTE (isso é sério)⚠️
-
-Você NÃO pode sair escaneando qualquer site.
-
-Vamos usar um alvo autorizado:
-
-👉 scanme.nmap.org (feito pra isso)
+## ⚠️ Importante
+Este teste foi realizado em ambiente autorizado (scanme.nmap.org).
 
 ## Ferramenta utilizada
 Nmap
 
+## O que é Nmap?
+O Nmap é uma ferramenta utilizada para descoberta de rede e auditoria de segurança, permitindo identificar hosts ativos, portas abertas e serviços em execução.
+
 ## Comando utilizado
 
 nmap scanme.nmap.org
+
+## O que o comando faz?
+Realiza um scan básico nas portas mais comuns do alvo, identificando quais estão abertas.
 
 ## Evidência
 
@@ -24,8 +25,21 @@ nmap scanme.nmap.org
 
 ## Resultado
 
-Foi possível identificar portas abertas e serviços ativos no servidor.
+Foram identificadas portas abertas no servidor, indicando serviços ativos disponíveis para conexão.
+
+Exemplo:
+- Porta 22 → SSH (acesso remoto)
+- Porta 80 → HTTP (servidor web)
+
+## Análise
+
+A identificação de portas abertas é importante pois cada serviço exposto pode representar um possível ponto de entrada para ataques.
+
+Serviços mal configurados ou desatualizados podem ser explorados por invasores.
 
 ## Aprendizado
 
-Compreensão básica de scan de portas e identificação de serviços em rede.
+- Entendimento básico de scan de portas  
+- Identificação de serviços em rede  
+- Importância da exposição de portas  
+- Noção inicial de superfície de ataque  
