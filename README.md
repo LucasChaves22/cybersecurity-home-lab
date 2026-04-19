@@ -16,4 +16,20 @@
 - Lab 04 - Host Discovery  
 - Lab 05 - Port Scan Local e Análise de Serviços  
 
+## Habilidades demonstradas
+
+- Reconhecimento de rede  
+- Varredura de portas com Nmap  
+- Identificação de serviços  
+- Análise de superfície de ataque  
+- Interpretação de resultados de segurança  
+- Organização de laboratório prático
+
+  ## Ferramentas utilizadas
+
+- Kali Linux  
+- Nmap  
+- VirtualBox  
+- GitHub
+  
 O projeto também inclui conteúdos teóricos sobre segurança em Windows, Linux, redes, resposta a incidentes e hardening básico.
