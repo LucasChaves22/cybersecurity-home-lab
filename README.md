@@ -1,28 +1,15 @@
 # Cybersecurity Home Lab
 
-Este projeto foi desenvolvido para demonstrar, de forma prática, conhecimentos em cibersegurança por meio da criação de um laboratório com atividades reais.
+Este projeto documenta a criação de um laboratório prático de cibersegurança focado em análise de rede, identificação de serviços e compreensão da superfície de ataque.
 
-Foram realizados laboratórios utilizando a ferramenta Nmap em ambiente virtual com Kali Linux, com foco em:
+Foram realizados laboratórios utilizando Nmap em ambiente virtual com Kali Linux, simulando atividades reais de reconhecimento e análise de segurança.
+
+Os laboratórios incluem:
 
 - Descoberta de hosts na rede  
-- Identificação de portas abertas  
-- Análise de serviços ativos  
-- Entendimento da superfície de ataque  
+- Varredura de portas  
+- Identificação de serviços e versões  
+- Análise de portas abertas  
+- Avaliação da exposição do sistema  
 
-O projeto também inclui conteúdos teóricos sobre:
-
-- Segurança em Windows  
-- Segurança em Linux  
-- Segurança de Rede  
-- Resposta a Incidentes  
-- Hardening básico  
-
-## Estrutura do projeto
-
-- docs → conteúdos teóricos  
-- labs → laboratórios práticos realizados  
-- images → evidências dos testes  
-
-## Objetivo
-
-Demonstrar na prática a aplicação de conceitos de segurança da informação, com foco em análise, organização e evolução contínua na área de cibersegurança.
+O projeto também inclui conteúdos teóricos sobre segurança em Windows, Linux, redes, resposta a incidentes e hardening básico.
