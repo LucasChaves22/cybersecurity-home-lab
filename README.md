@@ -1,5 +1,5 @@
 # Laboratório de Cibersegurança com Nmap (Kali Linux)
-
+## 🚧 (EM DESENVOLVIMENTO)
 Este projeto documenta a criação de um laboratório prático de cibersegurança, com foco em análise de rede, identificação de serviços e compreensão da superfície de ataque.
 
 Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, simulando atividades reais de reconhecimento e análise de segurança.
