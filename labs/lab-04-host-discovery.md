@@ -14,7 +14,7 @@ nmap -sn 10.0.2.1-20
 
 O comando `nmap -sn -T4 10.0.2.0/24` foi utilizado para realizar a varredura completa da rede.
 
-O comando `nmap -sn 10.0.2.1-20` foi testado como alternativa para otimizar o tempo de execução, porém não foi utilizado na evidência final apresentada.
+O comando `nmap -sn 10.0.2.1-20` foi pode ser uma alternativa para otimizar o tempo de execução, porém não foi utilizado na evidência final apresentada.
 ## O que os comandos fazem?
 
 - `-sn` → realiza descoberta de hosts sem escanear portas  
