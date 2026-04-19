@@ -15,3 +15,5 @@
 - Lab 03 - Service and Version Detection  
 - Lab 04 - Host Discovery  
 - Lab 05 - Port Scan Local e Análise de Serviços  
+
+O projeto também inclui conteúdos teóricos sobre segurança em Windows, Linux, redes, resposta a incidentes e hardening básico.
