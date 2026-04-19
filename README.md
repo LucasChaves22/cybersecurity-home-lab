@@ -1,15 +1,17 @@
 # Laboratório de Cibersegurança com Nmap (Kali Linux)
 
-Este projeto documenta a criação de um laboratório prático de cibersegurança focado em análise de rede, identificação de serviços e compreensão da superfície de ataque.
+## O que foi realizado neste projeto
 
-Foram realizados laboratórios utilizando Nmap em ambiente virtual com Kali Linux, simulando atividades reais de reconhecimento e análise de segurança.
-
-Os laboratórios incluem:
-
-- Descoberta de hosts na rede  
-- Varredura de portas  
+- Descoberta de dispositivos na rede (Host Discovery)  
+- Varredura de portas com Nmap  
 - Identificação de serviços e versões  
-- Análise de portas abertas  
-- Avaliação da exposição do sistema  
+- Análise de portas abertas e superfície de ataque  
+- Simulação de serviço ativo (porta 8080)  
+- Comparação entre sistema exposto e não exposto
+  ## Laboratórios
 
-O projeto também inclui conteúdos teóricos sobre segurança em Windows, Linux, redes, resposta a incidentes e hardening básico.
+- Lab 01 - Network Discovery  
+- Lab 02 - Port Scan  
+- Lab 03 - Service and Version Detection  
+- Lab 04 - Host Discovery  
+- Lab 05 - Port Scan Local e Análise de Serviços  
