@@ -10,8 +10,8 @@ Este teste foi realizado em ambiente autorizado (scanme.nmap.org).
 Nmap
 
 ## Comandos utilizados
-nmap -sV scanme.nmap.org
-nmap -F scanme.nmap.org
+- nmap -sV scanme.nmap.org
+- nmap -F scanme.nmap.org
 ## O que os comandos fazem?
 
 ### nmap -sV
