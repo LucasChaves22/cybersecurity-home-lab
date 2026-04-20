@@ -9,8 +9,8 @@ Identificar o endereço IP da máquina virtual e validar conectividade com a int
 
 ## Comandos utilizados
 
-ip a  
-ping -c 4 google.com  
+- ip a  
+- ping -c 4 google.com  
 
 ## O que os comandos fazem?
 
