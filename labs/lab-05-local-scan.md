@@ -7,9 +7,9 @@ Identificar portas abertas na máquina local e analisar o impacto de serviços a
 Nmap
 
 ## Comandos utilizados
-nmap 127.0.0.1
-python3 -m http.server 8080
-nmap 127.0.0.1
+- nmap 127.0.0.1
+- python3 -m http.server 8080
+- nmap 127.0.0.1
 
 ## O que os comandos fazem?
 
