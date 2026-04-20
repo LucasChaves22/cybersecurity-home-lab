@@ -27,11 +27,11 @@ As imagens abaixo mostram as regras configuradas no firewall após a aplicação
 
 ### Regras do firewall (parte 1)
 
-![Firewall 1](../images/lab06-firewall-01.png)
+![Firewall 1](../images/lab06-firewall-rules-01.png)
 
 ### Regras do firewall (parte 2)
 
-![Firewall 2](../images/lab06-firewall-02.png)
+![Firewall 2](../images/lab06-firewall-rules-02.png)
 
 ## Resultado
 
