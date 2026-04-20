@@ -7,8 +7,8 @@ Identificar dispositivos ativos na rede local e compreender sua estrutura.
 Nmap
 
 ## Comandos utilizados
-nmap -sn -T4 10.0.2.0/24
-nmap -sn 10.0.2.1-20
+- nmap -sn -T4 10.0.2.0/24
+- nmap -sn 10.0.2.1-20
 
 ## Observação
 
