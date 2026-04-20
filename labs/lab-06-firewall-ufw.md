@@ -7,11 +7,11 @@ Configurar e analisar o firewall do sistema Linux para controle de acesso às po
 UFW (Uncomplicated Firewall)
 
 ## Comandos utilizados
-sudo ufw enable
-sudo ufw status verbose
-sudo ufw allow 22
-sudo ufw deny 80
-sudo ufw status numbered
+- sudo ufw enable
+- sudo ufw status verbose
+- sudo ufw allow 22
+- sudo ufw deny 80
+- sudo ufw status numbered
 
 
 ## O que os comandos fazem?
