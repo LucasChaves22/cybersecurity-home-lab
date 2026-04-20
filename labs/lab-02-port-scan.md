@@ -14,7 +14,7 @@ O Nmap é uma ferramenta utilizada para descoberta de rede e auditoria de segura
 
 ## Comando utilizado
 
-nmap scanme.nmap.org
+- nmap scanme.nmap.org
 
 ## O que o comando faz?
 Realiza um scan básico nas portas mais comuns do alvo, identificando quais estão abertas.
