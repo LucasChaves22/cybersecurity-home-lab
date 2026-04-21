@@ -10,10 +10,10 @@ Monitorar processos em execução no sistema Linux para identificar atividades, 
 ## Comandos utilizados
 
 
-ps aux
-top
-htop
-kill PID
+- ps aux
+- top
+- htop
+- kill PID
 
 
 ## O que os comandos fazem?
