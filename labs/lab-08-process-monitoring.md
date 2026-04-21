@@ -13,8 +13,8 @@ Monitorar processos em execução no sistema Linux para identificar atividades, 
 - ps aux
 - top
 - htop
-- kill PID
-
+- kill <PID>
+Observação: O comando `kill` foi incluído como parte do estudo de gerenciamento de processos, porém não foi utilizado na evidência para evitar a finalização de processos importantes do sistema.
 
 ## O que os comandos fazem?
 
