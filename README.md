@@ -51,6 +51,8 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - VirtualBox
 - GitHub
 
-## Objetivo
+## 📌 Conclusão
 
-Demonstrar evolução prática na área de cibersegurança por meio da documentação de laboratórios, aplicação de comandos em ambiente Linux e análise de conceitos fundamentais utilizados no contexto de segurança ofensiva e defensiva.
+Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos práticos em cibersegurança, simulando atividades comuns da área como análise de rede, monitoramento e defesa de sistemas.
+
+Ele representa minha evolução prática na área e será continuamente atualizado com novos laboratórios.
