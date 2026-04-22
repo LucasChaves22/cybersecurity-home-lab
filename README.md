@@ -18,7 +18,7 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - Análise de logs
 - Hardening básico de sistema
 
-## 📂 Conteúdo Teórico
+## 🧠 Base Conceitual
 
 - [Segurança Windows](docs/windows-security.md)
 - [Segurança Linux](docs/linux-security.md)
