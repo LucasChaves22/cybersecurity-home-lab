@@ -21,10 +21,10 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 ## 📂 Conteúdo Teórico
 
 - [Segurança Windows](docs/windows-security.md)
-- [Segurança Linux](linux-security.md)
-- [Segurança de Rede](network-security.md)
-- [Resposta a Incidentes](incident-response.md)
-- [Hardening básico](hardening.md)
+- [Segurança Linux](docs/linux-security.md)
+- [Segurança de Rede](docs/network-security.md)
+- [Resposta a Incidentes](docs/incident-response.md)
+- [Hardening básico](docs/hardening.md)
 
 ## 🧪 Laboratórios
 
