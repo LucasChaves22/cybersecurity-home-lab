@@ -21,7 +21,7 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - [Lab 04 - Host Discovery](labs/lab-04-host-discovery.md)  
 - [Lab 05 - Port Scan Local](labs/lab-05-local-scan.md)  
 - [Lab 06 - Firewall Configuration (UFW)](labs/lab-06-firewall-ufw.md)  
-- [Lab 07 - Users and Permissions](labs/lab-07-users-permissions.md)  
+- [Lab 07 - Users and Permissions](labs/lab-07-users-and-permissions.md)  
 - [Lab 08 - Process Monitoring](labs/lab-08-process-monitoring.md)  
 - [Lab 09 - Log Analysis](labs/lab-09-log-analysis.md)  
 - [Lab 10 - System Hardening](labs/lab-10-system-hardening.md)  
