@@ -1,10 +1,10 @@
 # Laboratório de Cibersegurança 
 
-Laboratório prático de cibersegurança focado em análise de rede, monitoramento, detecção de ameaças e hardening de sistemas Linux, utilizando Kali Linux e ferramentas do mundo real.
+- Laboratório prático de cibersegurança focado em análise de rede, monitoramento, detecção de ameaças e hardening de sistemas Linux, utilizando Kali Linux e ferramentas do mundo real.
 
-Este projeto documenta a criação de um laboratório prático de cibersegurança, com foco em análise de rede, identificação de serviços e compreensão da superfície de ataque.
+- Este projeto documenta a criação de um laboratório prático de cibersegurança, com foco em análise de rede, identificação de serviços e compreensão da superfície de ataque.
 
-Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, simulando atividades reais de reconhecimento e análise de segurança.
+- Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, simulando atividades reais de reconhecimento e análise de segurança.
 
 ## 🔐 O que foi realizado neste projeto
 
