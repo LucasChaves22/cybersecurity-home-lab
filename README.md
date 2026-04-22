@@ -39,13 +39,7 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - [Lab 09 - Log Analysis](labs/lab-09-log-analysis.md)  
 - [Lab 10 - System Hardening](labs/lab10-system-hardening.md)  
 
-## Conteúdo Teórico
 
-- Segurança Windows  
-- Segurança Linux  
-- Segurança de Rede  
-- Resposta a Incidentes  
-- Hardening básico  
 
 ## 🛠️ Ferramentas utilizadas
 
