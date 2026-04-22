@@ -1,4 +1,6 @@
-# Laboratório de Cibersegurança com Nmap (Kali Linux)
+# Laboratório de Cibersegurança 
+
+Projeto criado para consolidar conhecimentos em cibersegurança com foco em análise de rede, monitoramento, hardening, segurança defensiva e práticas realizadas em ambiente Linux.
 ## 🚧 (EM DESENVOLVIMENTO)
 Este projeto documenta a criação de um laboratório prático de cibersegurança, com foco em análise de rede, identificação de serviços e compreensão da superfície de ataque.
 
@@ -6,14 +8,25 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 
 ## O que foi realizado neste projeto
 
-- Descoberta de dispositivos na rede (Host Discovery)  
-- Varredura de portas com Nmap  
-- Identificação de serviços e versões  
-- Análise de portas abertas e superfície de ataque  
-- Simulação de serviço ativo (porta 8080)  
-- Comparação entre sistema exposto e não exposto  
+- Descoberta de dispositivos na rede
+- Varredura de portas com Nmap
+- Identificação de serviços e versões
+- Análise de portas abertas e superfície de ataque
+- Configuração de firewall
+- Gerenciamento de usuários e permissões
+- Monitoramento de processos
+- Análise de logs
+- Hardening básico de sistema
 
-## Laboratórios
+## 📂 Conteúdo Teórico
+
+- Segurança Windows
+- Segurança Linux
+- Segurança de Rede
+- Resposta a Incidentes
+- Hardening básico
+
+## 🧪 Laboratórios
 
 - [Lab 01 - Network Discovery](labs/lab-01-network-discovery.md)  
 - [Lab 02 - Port Scan](labs/lab-02-port-scan.md)  
@@ -34,13 +47,16 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - Resposta a Incidentes  
 - Hardening básico  
 
-## Ferramentas utilizadas
+## 🛠️ Ferramentas utilizadas
 
-- Kali Linux  
-- Nmap  
-- VirtualBox  
-- GitHub  
+- Kali Linux
+- Nmap
+- UFW
+- journalctl
+- htop
+- VirtualBox
+- GitHub
 
 ## Objetivo
 
-Demonstrar na prática a aplicação de conceitos de cibersegurança, com foco em análise, organização e evolução contínua na área.
+Demonstrar evolução prática na área de cibersegurança por meio da documentação de laboratórios, aplicação de comandos em ambiente Linux e análise de conceitos fundamentais utilizados no contexto de segurança ofensiva e defensiva.
