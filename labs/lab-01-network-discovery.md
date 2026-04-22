@@ -1,4 +1,4 @@
-# Lab 01 - Network Discovery
+## Lab 01 - Network Discovery
 
 ## Objetivo
 Identificar o endereço IP da máquina virtual e validar conectividade com a internet.
