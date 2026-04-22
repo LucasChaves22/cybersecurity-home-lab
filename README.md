@@ -24,7 +24,7 @@ Os laboratórios foram realizados utilizando Kali Linux e a ferramenta Nmap, sim
 - [Lab 07 - Users and Permissions](labs/lab-07-users-and-permissions.md)  
 - [Lab 08 - Process Monitoring](labs/lab-08-process-monitoring.md)  
 - [Lab 09 - Log Analysis](labs/lab-09-log-analysis.md)  
-- [Lab 10 - System Hardening](labs/lab-10-system-hardening.md)  
+- [Lab 10 - System Hardening](labs/lab10-system-hardening.md)  
 
 ## Conteúdo Teórico
 
