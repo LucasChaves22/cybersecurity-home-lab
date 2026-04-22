@@ -1,4 +1,4 @@
- Lab 07 - Usuários e Permissões no Linux
+ ## Lab 07 - Usuários e Permissões no Linux
 
 ## Objetivo
 Gerenciar usuários e permissões para controle de acesso a arquivos no sistema Linux.
